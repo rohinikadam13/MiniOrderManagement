@@ -1,0 +1,11 @@
+D:\Task\MiniOrderManagement\MiniOrderManagement.Domain\bin\Debug\net8.0\MiniOrderManagement.Domain.deps.json
+D:\Task\MiniOrderManagement\MiniOrderManagement.Domain\bin\Debug\net8.0\MiniOrderManagement.Domain.dll
+D:\Task\MiniOrderManagement\MiniOrderManagement.Domain\bin\Debug\net8.0\MiniOrderManagement.Domain.pdb
+D:\Task\MiniOrderManagement\MiniOrderManagement.Domain\obj\Debug\net8.0\MiniOrderManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task\MiniOrderManagement\MiniOrderManagement.Domain\obj\Debug\net8.0\MiniOrderManagement.Domain.AssemblyInfoInputs.cache
+D:\Task\MiniOrderManagement\MiniOrderManagement.Domain\obj\Debug\net8.0\MiniOrderManagement.Domain.AssemblyInfo.cs
+D:\Task\MiniOrderManagement\MiniOrderManagement.Domain\obj\Debug\net8.0\MiniOrderManagement.Domain.csproj.CoreCompileInputs.cache
+D:\Task\MiniOrderManagement\MiniOrderManagement.Domain\obj\Debug\net8.0\MiniOrderManagement.Domain.dll
+D:\Task\MiniOrderManagement\MiniOrderManagement.Domain\obj\Debug\net8.0\refint\MiniOrderManagement.Domain.dll
+D:\Task\MiniOrderManagement\MiniOrderManagement.Domain\obj\Debug\net8.0\MiniOrderManagement.Domain.pdb
+D:\Task\MiniOrderManagement\MiniOrderManagement.Domain\obj\Debug\net8.0\ref\MiniOrderManagement.Domain.dll

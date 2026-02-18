@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tdSU/SwpVEc=",
+  "success": true,
+  "projectFilePath": "D:\\Task\\MiniOrderManagement\\MiniOrderManagement.Application\\MiniOrderManagement.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Prathamesh Patil\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

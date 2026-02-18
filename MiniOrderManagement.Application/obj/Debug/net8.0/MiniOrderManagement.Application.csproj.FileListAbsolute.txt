@@ -1,0 +1,15 @@
+D:\Task\MiniOrderManagement\MiniOrderManagement.Application\bin\Debug\net8.0\MiniOrderManagement.Application.deps.json
+D:\Task\MiniOrderManagement\MiniOrderManagement.Application\bin\Debug\net8.0\MiniOrderManagement.Application.dll
+D:\Task\MiniOrderManagement\MiniOrderManagement.Application\bin\Debug\net8.0\MiniOrderManagement.Application.pdb
+D:\Task\MiniOrderManagement\MiniOrderManagement.Application\bin\Debug\net8.0\MiniOrderManagement.Domain.dll
+D:\Task\MiniOrderManagement\MiniOrderManagement.Application\bin\Debug\net8.0\MiniOrderManagement.Domain.pdb
+D:\Task\MiniOrderManagement\MiniOrderManagement.Application\obj\Debug\net8.0\MiniOrderManagement.Application.csproj.AssemblyReference.cache
+D:\Task\MiniOrderManagement\MiniOrderManagement.Application\obj\Debug\net8.0\MiniOrderManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task\MiniOrderManagement\MiniOrderManagement.Application\obj\Debug\net8.0\MiniOrderManagement.Application.AssemblyInfoInputs.cache
+D:\Task\MiniOrderManagement\MiniOrderManagement.Application\obj\Debug\net8.0\MiniOrderManagement.Application.AssemblyInfo.cs
+D:\Task\MiniOrderManagement\MiniOrderManagement.Application\obj\Debug\net8.0\MiniOrderManagement.Application.csproj.CoreCompileInputs.cache
+D:\Task\MiniOrderManagement\MiniOrderManagement.Application\obj\Debug\net8.0\MiniOrde.FC8D092F.Up2Date
+D:\Task\MiniOrderManagement\MiniOrderManagement.Application\obj\Debug\net8.0\MiniOrderManagement.Application.dll
+D:\Task\MiniOrderManagement\MiniOrderManagement.Application\obj\Debug\net8.0\refint\MiniOrderManagement.Application.dll
+D:\Task\MiniOrderManagement\MiniOrderManagement.Application\obj\Debug\net8.0\MiniOrderManagement.Application.pdb
+D:\Task\MiniOrderManagement\MiniOrderManagement.Application\obj\Debug\net8.0\ref\MiniOrderManagement.Application.dll

@@ -1,0 +1,23 @@
+namespace MiniOrderManagement.Application.DTOs.Responses
+{
+    /// <summary>
+    /// Generic API response wrapper
+    /// </summary>
+    public class ApiResponseDto<T>
+    {
+        public bool Success { get; set; }
+        public string Message { get; set; } = string.Empty;
+        public T? Data { get; set; }
+        public List<string> Errors { get; set; } = new();
+    }
+
+    /// <summary>
+    /// API response without data
+    /// </summary>
+    public class ApiResponseDto
+    {
+        public bool Success { get; set; }
+        public string Message { get; set; } = string.Empty;
+        public List<string> Errors { get; set; } = new();
+    }
+}
